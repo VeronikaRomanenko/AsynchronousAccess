@@ -1,0 +1,6 @@
+D:\Романенко Вероника\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\Романенко Вероника\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\Романенко Вероника\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\Романенко Вероника\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojResolveAssemblyReference.cache
+D:\Романенко Вероника\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\Романенко Вероника\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
